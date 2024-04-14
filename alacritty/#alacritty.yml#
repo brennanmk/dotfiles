@@ -1,0 +1,5 @@
+font:
+  normal:
+    family: Ubuntu Mono derivative Powerline
+    style: Regular
+  size: 11
